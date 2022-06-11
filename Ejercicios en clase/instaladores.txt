@@ -1,0 +1,7 @@
+BACKEND: 
+npm i nodemon
+npm i cors
+npm i express
+
+FRONDTEND:
+npm i axios

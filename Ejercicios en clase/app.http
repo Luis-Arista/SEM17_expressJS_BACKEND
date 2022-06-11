@@ -1,0 +1,9 @@
+@hostname=http://localhost
+
+@port=5005
+
+@host={{hostname}}:{{port}}
+
+###
+
+GET {{host}}/
